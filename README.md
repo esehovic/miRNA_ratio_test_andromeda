@@ -1,5 +1,5 @@
 # miRNA_ratio_test_andromeda
-The code used for analysing the plasma miRNA ratios for early breast cancer detection explained in the article "Confirmation of previously identified plasma microRNA ratios for breast cancer detection in a nested case-control study within a screening setting" (ADD DOI). 
+The code used for analysing the plasma miRNA ratios for early breast cancer detection explained in the article "Validation of previously identified plasma microRNA ratios for breast cancer detection in a nested case-control study within a screening setting" (ADD DOI). 
 
 The dataset used in the code can be downloaded from the Zenodo data repository (https://doi.org/10.5281/zenodo.11234225).
 
